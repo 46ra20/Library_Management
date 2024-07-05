@@ -4,4 +4,4 @@ Django
 django-crispy-forms
 pillow
 sqlparse
-dotenv
+python-dotenv
