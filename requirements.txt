@@ -5,4 +5,4 @@ django-crispy-forms
 pillow
 sqlparse
 python-dotenv
-rest_framework
+djangorestframework
