@@ -29,6 +29,7 @@ SECRET_KEY = 'django-insecure-q%&@v@_gou=sn((i#v0b1mf#zsy6^@6+t3*00^+4zpb5qfhys_
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
+CSRF_TRUSTED_ORIGINS=['https://library-management-hed7.onrender.com']
 CORS_ORIGIN_ALLOW_ALL = True
 
 
